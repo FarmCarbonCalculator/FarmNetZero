@@ -1,0 +1,27 @@
+column_name,description
+user_input.quantity.units,Litres | Kilowatt hours (kWh) | Miles travelled | Number of posts | Tonnes | Fresh weight harvested (tonnes) | Kg of active ingredient | Tonnes (fresh weight) | Average head of livestock | Delivery distance in miles | Delivery round trip distance (miles) | Length in metres | Hectares (ha) | Number of trees | Rolls | Metres cubed (m3) | Kilograms (Kg) | Acres (ac) | Bales | Number of Bales | Number of bales | Bottles | Tonnes of CO2e | Reams (500 sheets) | Metres | Meters of fence | Tonnes of metal | Fresh weight (tonnes) | Kilograms (kg) | Kilograms | Metres squared (m2) | Tonnes (dry weight) | Tonnes of P | Per bucket | Number of units | Meters | Hurdles | Number | Horsepower | 25Kilograms (Kg) bags | Tonnes of K | Hectares | Tonne of product | Nights in hotel | Cubic meters | Footprint of fertiliser - tCO2/t input | Number of vehicles purchased | Tonnes carrying capacity | Metres (m)
+dry_matter_intake,Dry Matter Intake (kgDM/head/day)
+livestock_bought,Livestock bought
+Livestock_sold,Livestock sold
+user_input.livestock_sale_weight.units,Sale weight per head (kg)
+slurry_%,Slurry %
+farm_yard_manure_%,Farm Yard Manure %
+in_field_manure_%,In field manure %
+spread_%,Daily Spread (fresh manure) %
+spreading_grassland_%,Grassland %
+spreading_arable_%,Arable Land %
+animal_weight_kg,Average liveweight per head (kg)
+ko_%,Killing out %
+user_input.reporting_period_weeks.units,Reporting period in weeks
+wool_produced_kg,Wool produced (kg)
+dairy_yield,Dairy yield (litres/head/year)
+milk_fat_%,Milk fat percentage
+milk_protein_%,Milk protein percentage
+user_input.footprint.units,tCO2e per tonne
+eggs_produced,Eggs produced
+user_input.tonnes.units,Tonnes of product
+landarea_cultivated,Land area under cultivation (hectares)
+landarea_grass,Land area under permanent pasture (hectares)
+landarea_noncropping,Land area not under permannet pasture or cropping (including stewardship and woodlands) (hectares) 
+kg_manure,Livestock produced manure (kg)
+harvested_area,Land area harvested (hecares)
