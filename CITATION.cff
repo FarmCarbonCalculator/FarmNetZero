@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - name: "Farm Net Zero Partnership"
+title: "Greenhouse Gas Emissions and Sequestration Data from Cornwall Monitor Farms (2021-2025)"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/FarmCarbonCalculator/FarmNetZero"
+abstract: >-
+  GHG emissions and sequestration data collected between January 2021 and December 2025
+  from anonymized monitor farms in Cornwall, UK. The data was gathered with the support
+  of trained advisors using the Farm Carbon Calculator as part of the Farm Net Zero project.
+  The project was a partnership between Duchy College, Farm Carbon Toolkit, The Soil
+  Association, Westcountry Rivers Trust, and Innovation for Agriculture, and was funded
+  by The National Lottery Community Fund's Climate Action Fund (GB-GOR-PB188).
+keywords:
+  - "greenhouse gas emissions"
+  - "carbon sequestration"
+  - "agriculture"
+  - "farm footprint"
+  - "cornwall"
+  - "net zero"
+license: "CC-BY-4.0"
