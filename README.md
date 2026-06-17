@@ -1,7 +1,7 @@
 # FarmNetZero
 GHG emissions and sequestration data from Farm Net Zero project 2021-2025.
 
-The Farm Net Zero project started in January 2021 and was completed in  December 2025. It  was a partnership project between Duchy College, Farm Carbon Toolkit, The Soil  Association, Westcountry Rivers Trust and Innovation for Agriculture.   
+The Farm Net Zero project started in January 2021 and was completed in  December 2025. It  was a partnership project between Rural Business School of Duchy College, Farm Carbon Toolkit, The Soil Association, Westcountry Rivers Trust and Innovation for Agriculture.   
 
 All farms were located in Cornwall, and whole farm footprints were untaken with the support of trained advisors, using the Farm Carbon Calculator https://calculator.farmcarbontoolkit.org.uk/resources.
 
@@ -28,5 +28,5 @@ If you are using LaTeX or a reference manager, you can use the following BibTeX 
   title        = {{Greenhouse Gas Emissions and Sequestration Data from Cornwall Monitor Farms (2021–2025)}},
   year         = {2026},
   howpublished = {\url{https://github.com/FarmCarbonCalculator/FarmNetZero}},
-  note         = {Data collected via the Farm Carbon Calculator in partnership with Duchy College, Farm Carbon Toolkit, The Soil Association, Westcountry Rivers Trust, and Innovation for Agriculture. Funded by The National Lottery Community Fund's Climate Action Fund (GB-GOR-PB188)}
+  note         = {Data collected via the Farm Carbon Calculator in partnership with Rural Business School of Duchy College, Farm Carbon Toolkit, The Soil Association, Westcountry Rivers Trust, and Innovation for Agriculture. Funded by The National Lottery Community Fund's Climate Action Fund (GB-GOR-PB188)}
 }
