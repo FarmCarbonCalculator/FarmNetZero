@@ -1,0 +1,79 @@
+column_name,description
+report_name,Anonymised farm name
+report_name_year,Anonymised farm name with start (YR1) or end (YR5) tag
+report_start,Report start date
+report_end,Report end date
+landarea_cultivated_ha,Land area under cultivation (hectares)
+landarea_grass_ha,Land area under permanent pasture (hectares)
+landarea_noncropping_ha,Land area not under permannet pasture or cropping (including stewardship and woodlands) (hectares) 
+section,Calculator section (aligns with online calculator tabs)
+emissions_category_name,Item name
+emissions_category_id,Unique item identifier
+input_quantity,Primary data input field
+input_quantity_units,Primary data input field units simple
+input_quantity_description,Primary data input field units described: Litres | Kilowatt hours (kWh) | Miles travelled | Number of posts | Tonnes | Fresh weight harvested (tonnes) | Kg of active ingredient | Tonnes (fresh weight) | Average head of livestock | Delivery distance in miles | Delivery round trip distance (miles) | Length in metres | Hectares (ha) | Number of trees | Rolls | Metres cubed (m3) | Kilograms (Kg) | Acres (ac) | Bales | Number of Bales | Number of bales | Bottles | Tonnes of CO2e | Reams (500 sheets) | Metres | Meters of fence | Tonnes of metal | Fresh weight (tonnes) | Kilograms (kg) | Kilograms | Metres squared (m2) | Tonnes (dry weight) | Tonnes of P | Per bucket | Number of units | Meters | Hurdles | Number | Horsepower | 25Kilograms (Kg) bags | Tonnes of K | Hectares | Tonne of product | Nights in hotel | Cubic meters | Footprint of fertiliser - tCO2/t input | Number of vehicles purchased | Tonnes carrying capacity | Metres (m)
+total_emissions_tCO2e,Total emissions in tonnes of CO2e
+total_sequestration_tCO2e,Total sequestration in tonnes of CO2e
+scope_1_tCO2e,Scope 1 total in tonnes of CO2e
+scope_1_CO2_tCO2e,Scope 1 CO2 total in tonnes of CO2e
+scope_1_biogenic_CO2_tCO2e,Scope 1 biogenic CO2 in tonnes of CO2e
+scope_1_mechanical_CO2_tCO2e,Scope 1 mechanical CO2 in tonnes of CO2e
+scope_1_CH4_tCO2e,Scope 1 CH4 total in tonnes of CO2e
+scope_1_mechanical_CH4_tCO2e,Scope 1 mechanical CH4 in tonnes of CO2e
+scope_1_otherbiogenic_CH4_tCO2e,Scope 1 other biogenic CH4 in tonnes of CO2e
+scope_1_enteric_CH4_tCO2e,Scope 1 enteric CH4 in tonnes of CO2e
+scope_1_manure_CH4_tCO2e,Scope 1 manure CH4 in tonnes of CO2e
+scope_1_N2O_tCO2e,Scope 1 N2O total in tonnes of CO2e
+scope_1_direct_N2O_tCO2e,Scope 1 direct N2O in tonnes of CO2e
+scope_1_indirect_volatilisation_N2O_tCO2e,Scope 1 indirect N2O from volatilisation in tonnes of CO2e
+scope_1_indirect_leaching_N2O_tCO2e,Scope 1 indirect N2O from leaching in tonnes of CO2e
+scope_1_mechanical_N2O_tCO2e,Scope 1 mechanical N2O in tonnes of CO2e
+scope_1_otherGHG_tCO2e,Scope 1 undefined GHG source total emissions in tonnes of CO2e
+scope_2_tCO2e,Scope 2 total in tonnes of CO2e
+scope_2_CO2_tCO2e,Scope 2 CO2 total in tonnes of CO2e
+scope_2_CH4_tCO2e,Scope 2 CH4 total in tonnes of CO2e
+scope_2_N2O_tCO2e,Scope 2 N2O total in tonnes of CO2e
+scope_2_otherGHG_tCO2e,Scope 2 undefined GHG source total emissions in tonnes of CO2e
+scope_3_tCO2e,Scope 3 total in tonnes of CO2e
+scope_3_CO2_tCO2e,Scope 3 CO2 total in tonnes of CO2e
+scope_3_CH4_tCO2e,Scope 3 CH4 total in tonnes of CO2e
+scope_3_N2O_tCO2e,Scope 3 N2O total in tonnes of CO2e
+scope_3_otherGHG_tCO2e,Scope 3 undefined GHG source total emissions in tonnes of CO2e
+scope_4_tCO2e,Out of scopes total emissions in tonnes of CO2e
+kg_manure_value,Total kilograms of manure
+input_area_value,Secondary data input - area
+input_area_units,Secondary data input - area units
+input_N_AN_perc,Secondary data input - Ammonium nitrate percentage of custom fertiliser
+input_N_Urea_perc,Secondary data input - Urea percentage of custom fertiliser
+input_P_perc,Secondary data input - Phosphorous percentage of custom fertiliser
+input_K_perc,Secondary data input - Potassium percentage of custom fertiliser
+livestock_bought,Number of livestock purchased
+animal_weight_kg,Average animal weight in kilograms
+livestock_sold,Number of livestock sold
+livestock_sale_weight_kg,Sale weight of livestock sold in kilograms
+killing_out_perc,Killing out oercentage of livestock sold
+slurry_perc,Manure management component (pre-2024 livestock update): percentage of manure as slurry
+farm_yard_manure_perc,Manure management component (pre-2024 livestock update): percentage of manure as FYM
+in_field_manure_perc,Manure management component (pre-2024 livestock update): percentage of manure as in field manure
+daily_spread_perc,Manure management component (pre-2024 livestock update): percentage of manure as dail spread
+spreading_on_grassland_perc,Manure management component (pre-2024 livestock update): percentage of manure spread on grasslands
+spreading_on_arable_perc,Manure management component (pre-2024 livestock update): percentage of manure spread on arable
+updated_storage_type_perc,"Manure management component (post-2024 livestock update): table of manure storage type, and percentage of manure in each type"
+feed_option_choice,"Option selection for calculating enteric methane (option 1 = default value, option 2 = DMI derived value, option 3 = feed type and DMI derived value)"
+option_2_dry_matter_intake_kg_head_day,Dry matter intake (kg/head/day)
+option3_feed_type_perc_dmi,"Table of feed type selection, percentage of feed the option represents, and the DMI of the feed"
+reporting_period_weeks,Reporting period for the livestock item (used to scale emissions to the period the animals are on farm)
+wool_produced_kg,Total wool produced
+recycled_quantity_t,Waste (legacy only) that was disposed of via recycling. 
+input_width_m,Secondary data input - width in meters
+soil_sample_depth_m,Soil components: sampling depth
+sbd_g_cm3,Soil components: default soil bulk density
+soil_history_table,"Soil components: table of sampling year, percentage of SOC or SOM in the year, and SBD in grams per cm3"
+weight_per_journey_t,Distribution secondary component: weight of produce being transported (in tonned). 
+journeys_number,Distribution secondary component: number of journeys taken. 
+average_tree_age_years,Average tree age in years
+dairy_yield_litres_head_year,Dairy yield (litres/head/year)
+milk_fat_perc,Milk fat percentage
+milk_protein_perc,Milk protein percentage
+eggs_produced_number,Total eggs produced
+known_product_footprint_tCO2e_per_tonne,Known product footprint of custom item in tonnes of COt3 
